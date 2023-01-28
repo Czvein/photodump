@@ -7,6 +7,10 @@
   font-family: 'Poppins', sans-serif;
 }
 
+body{
+  background-color: rgb(255, 249, 236);
+}
+
 .container{
   display: flex;
   flex-direction: column;
@@ -71,7 +75,7 @@
   }
 
 .container .box .dream{
-  width: 80%;
+  width: 95%;
 }
 
 }
